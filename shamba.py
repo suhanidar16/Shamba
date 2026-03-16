@@ -7,7 +7,7 @@ from openai import OpenAI
 # =========================
 # CONFIGURATION
 # =========================
-WEATHER_API_KEY = "b2feaafb8b09d872b76e4c0ccdd90878"
+WEATHER_API_KEY = "your_weather_key_here"
 
 # Initialize AI Client
 client = OpenAI(
